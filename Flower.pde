@@ -5,7 +5,7 @@ class Flower extends MovingSprite{
 
     Flower(float x, float y){
         super(x,y,2);
-        sz=random(5,7);
+        sz=random(30,30);
 //change the next line of code to change the color of the dots
 //color(r,g,b,a);
 //r is red, g is green, b is blue and a is alpha (opacity)
